@@ -1,0 +1,7 @@
+D:\task\Task\home_task\bin\Debug\home_task.exe.config
+D:\task\Task\home_task\bin\Debug\home_task.exe
+D:\task\Task\home_task\bin\Debug\home_task.pdb
+D:\task\Task\home_task\obj\Debug\home_task.csproj.AssemblyReference.cache
+D:\task\Task\home_task\obj\Debug\home_task.csproj.CoreCompileInputs.cache
+D:\task\Task\home_task\obj\Debug\home_task.exe
+D:\task\Task\home_task\obj\Debug\home_task.pdb

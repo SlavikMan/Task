@@ -10,6 +10,9 @@ namespace home_task
     {
         static void Main(string[] args)
         {
+            int a = 12;
+            int b = 13;
+            int c = 2;
         }
     }
 }
